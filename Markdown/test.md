@@ -5,4 +5,4 @@
     
 This text is ***really important***
     
-![pinguu](pinu.png)
+![pinguu](pingu.png)
