@@ -1,10 +1,8 @@
-    # Heading level 1
+ # Heading level 1
     
-    Heading level 
-    ---------------
+ Heading level 
+ ---------------
     
-    This text is ***really important***.
+This text is ***really important***
     
-    # **j'aime sucer clement**
-    
-    ![pingu](pingu.png) 
+![pinguu](pinu.png)
